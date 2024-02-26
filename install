@@ -1,0 +1,10 @@
+echo Please enter your password:
+read PASSWORD
+
+clear
+
+echo $PASSWORD | sudo -S apt install python3
+echo $PASSWORD | sudo -S apt install python3-pip
+echo $PASSWORD | sudo -S apt install python3-tk
+pip install pyperclip --break-system-packages
+echo $PASSWORD | sudo -S apt install xclip
