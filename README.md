@@ -5,8 +5,7 @@ This repository is another password manager.
 
 To use password-manager first you have to download it. Do so by running the following commands:
 
-sudo apt install git
-git clone https://github.com/SmallCoder13/password-manager
+sudo apt install git && git clone https://github.com/SmallCoder13/password-manager
 
 now that you have the files, go into the folder containing the files by running the following command:
 
@@ -14,8 +13,7 @@ cd password-manager
 
 Next, we need to make the install file exucutable and run it. Do so by running the following command:
 
-chmod +x install
-./install
+chmod +x install && ./install
 
 Now that we have password-manager install, we need to unzip the .zip file. Do so by running the following command:
 
