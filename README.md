@@ -1,7 +1,7 @@
 This repository is another password manager. 
 
 
-**INSTALL**
+**INSTALLATION FOR DEBIAN**
 
 To use password-manager first you have to download it. Do so by running the following commands:
 
