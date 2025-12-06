@@ -1,3 +1,5 @@
+**DISCLAIMER**: I am no longer maintaining this repo. I have another password manager that I am maintaining [here](https://github.com/SmallCoder13/pypass)
+
 This repository is another password manager. 
 
 
